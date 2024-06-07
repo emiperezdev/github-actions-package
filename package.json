@@ -1,5 +1,5 @@
 {
-  "name": "github-actions-package",
+  "name": "@emiperezdev/-actions-package",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
